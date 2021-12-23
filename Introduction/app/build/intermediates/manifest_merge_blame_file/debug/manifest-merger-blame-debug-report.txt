@@ -1,0 +1,88 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.storm.introMA"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="23"
+8-->/Users/jen/Documents/from google drive/Introduction/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="28" />
+9-->/Users/jen/Documents/from google drive/Introduction/app/src/main/AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->/Users/jen/Documents/from google drive/Introduction/app/src/main/AndroidManifest.xml:5:5-66
+11-->/Users/jen/Documents/from google drive/Introduction/app/src/main/AndroidManifest.xml:5:22-64
+12
+13    <uses-feature android:name="com.softbank.hardware.pepper" />
+13-->/Users/jen/Documents/from google drive/Introduction/app/src/main/AndroidManifest.xml:32:5-64
+13-->/Users/jen/Documents/from google drive/Introduction/app/src/main/AndroidManifest.xml:32:19-62
+14
+15    <uses-permission android:name="com.aldebaran.permission.ROBOT" />
+15-->[com.aldebaran:qisdk:1.4.8] /Users/jen/.gradle/caches/transforms-2/files-2.1/5407f2472e71f3273087613042332e20/qisdk-1.4.8/AndroidManifest.xml:10:5-70
+15-->[com.aldebaran:qisdk:1.4.8] /Users/jen/.gradle/caches/transforms-2/files-2.1/5407f2472e71f3273087613042332e20/qisdk-1.4.8/AndroidManifest.xml:10:22-67
+16
+17    <application
+17-->/Users/jen/Documents/from google drive/Introduction/app/src/main/AndroidManifest.xml:7:5-30:19
+18        android:allowBackup="true"
+18-->/Users/jen/Documents/from google drive/Introduction/app/src/main/AndroidManifest.xml:8:9-35
+19        android:appComponentFactory="android.support.v4.app.CoreComponentFactory"
+19-->[com.android.support:support-compat:28.0.0] /Users/jen/.gradle/caches/transforms-2/files-2.1/f1491a81a65d4033a56d6549564e765e/support-compat-28.0.0/AndroidManifest.xml:22:18-91
+20        android:debuggable="true"
+21        android:extractNativeLibs="false"
+22        android:icon="@mipmap/ic_launcher"
+22-->/Users/jen/Documents/from google drive/Introduction/app/src/main/AndroidManifest.xml:9:9-43
+23        android:label="@string/app_name"
+23-->/Users/jen/Documents/from google drive/Introduction/app/src/main/AndroidManifest.xml:10:9-41
+24        android:roundIcon="@mipmap/ic_launcher_round"
+24-->/Users/jen/Documents/from google drive/Introduction/app/src/main/AndroidManifest.xml:11:9-54
+25        android:supportsRtl="true"
+25-->/Users/jen/Documents/from google drive/Introduction/app/src/main/AndroidManifest.xml:12:9-35
+26        android:testOnly="true" >
+27        <activity
+27-->/Users/jen/Documents/from google drive/Introduction/app/src/main/AndroidManifest.xml:13:9-20:20
+28            android:name="com.storm.pepper.MainActivity"
+28-->/Users/jen/Documents/from google drive/Introduction/app/src/main/AndroidManifest.xml:13:19-63
+29            android:theme="@style/AppTheme.NoActionBar" >
+29-->/Users/jen/Documents/from google drive/Introduction/app/src/main/AndroidManifest.xml:14:13-56
+30            <intent-filter>
+30-->/Users/jen/Documents/from google drive/Introduction/app/src/main/AndroidManifest.xml:15:13-19:29
+31                <action android:name="android.intent.action.MAIN" />
+31-->/Users/jen/Documents/from google drive/Introduction/app/src/main/AndroidManifest.xml:16:17-69
+31-->/Users/jen/Documents/from google drive/Introduction/app/src/main/AndroidManifest.xml:16:25-66
+32
+33                <category android:name="android.intent.category.LAUNCHER" />
+33-->/Users/jen/Documents/from google drive/Introduction/app/src/main/AndroidManifest.xml:18:17-77
+33-->/Users/jen/Documents/from google drive/Introduction/app/src/main/AndroidManifest.xml:18:27-74
+34            </intent-filter>
+35        </activity>
+36
+37        <receiver android:name="com.storm.pepper.BatteryLevelReceiver" >
+37-->/Users/jen/Documents/from google drive/Introduction/app/src/main/AndroidManifest.xml:22:9-29:20
+37-->/Users/jen/Documents/from google drive/Introduction/app/src/main/AndroidManifest.xml:22:19-71
+38            <intent-filter>
+38-->/Users/jen/Documents/from google drive/Introduction/app/src/main/AndroidManifest.xml:23:13-28:29
+39                <action android:name="android.intent.action.ACTION_POWER_CONNECTED" />
+39-->/Users/jen/Documents/from google drive/Introduction/app/src/main/AndroidManifest.xml:24:17-86
+39-->/Users/jen/Documents/from google drive/Introduction/app/src/main/AndroidManifest.xml:24:25-84
+40                <action android:name="android.intent.action.ACTION_POWER_DISCONNECTED" />
+40-->/Users/jen/Documents/from google drive/Introduction/app/src/main/AndroidManifest.xml:25:17-89
+40-->/Users/jen/Documents/from google drive/Introduction/app/src/main/AndroidManifest.xml:25:25-87
+41                <action android:name="android.intent.action.BATTERY_LOW" />
+41-->/Users/jen/Documents/from google drive/Introduction/app/src/main/AndroidManifest.xml:26:17-75
+41-->/Users/jen/Documents/from google drive/Introduction/app/src/main/AndroidManifest.xml:26:25-73
+42                <action android:name="android.intent.action.BATTERY_OKAY" />
+42-->/Users/jen/Documents/from google drive/Introduction/app/src/main/AndroidManifest.xml:27:17-76
+42-->/Users/jen/Documents/from google drive/Introduction/app/src/main/AndroidManifest.xml:27:25-74
+43            </intent-filter>
+44        </receiver>
+45
+46        <meta-data
+46-->[com.aldebaran:qisdk:1.4.8] /Users/jen/.gradle/caches/transforms-2/files-2.1/5407f2472e71f3273087613042332e20/qisdk-1.4.8/AndroidManifest.xml:16:9-18:53
+47            android:name="qisdk_version"
+47-->[com.aldebaran:qisdk:1.4.8] /Users/jen/.gradle/caches/transforms-2/files-2.1/5407f2472e71f3273087613042332e20/qisdk-1.4.8/AndroidManifest.xml:17:13-41
+48            android:value="@string/qisdk_version" />
+48-->[com.aldebaran:qisdk:1.4.8] /Users/jen/.gradle/caches/transforms-2/files-2.1/5407f2472e71f3273087613042332e20/qisdk-1.4.8/AndroidManifest.xml:18:13-50
+49    </application>
+50
+51</manifest>

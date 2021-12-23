@@ -1,0 +1,10 @@
+topic: ~investment_rules()
+concept: (positive) [sure yes yup correct fine yep yeah "kind of" "probably" "I think so"]
+concept: (negative) [no nah nope "not really"]
+
+u:(~positive)
+Excellent, let's start! $understood=true ^endDiscuss(yes)
+
+u:(~negative)
+In that case, maybe Jen can explain it a bit better? $understood=false ^endDiscuss(no)
+

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.aldebaran:robotservice-client:1.46@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/bfe64432f5658cec8f2e76c71167f2a1/robotservice-client-1.46/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/bfe64432f5658cec8f2e76c71167f2a1/robotservice-client-1.46/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/bfe64432f5658cec8f2e76c71167f2a1/robotservice-client-1.46/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

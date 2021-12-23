@@ -1,0 +1,130 @@
+[
+    {
+        "merged": "/Users/jen/Documents/from google drive/Introduction/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/jen/Documents/from google drive/Introduction/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/jen/Documents/from google drive/Introduction/app/build/intermediates/res/merged/debug/layout_drives_row.xml.flat",
+        "source": "/Users/jen/Documents/from google drive/Introduction/app/src/main/res/layout/drives_row.xml"
+    },
+    {
+        "merged": "/Users/jen/Documents/from google drive/Introduction/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
+        "source": "/Users/jen/Documents/from google drive/Introduction/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/jen/Documents/from google drive/Introduction/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/jen/Documents/from google drive/Introduction/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/jen/Documents/from google drive/Introduction/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/jen/Documents/from google drive/Introduction/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/jen/Documents/from google drive/Introduction/app/build/intermediates/res/merged/debug/raw_plan_welcome_participant.xml.flat",
+        "source": "/Users/jen/Documents/from google drive/Introduction/app/src/main/res/raw/plan_welcome_participant.xml"
+    },
+    {
+        "merged": "/Users/jen/Documents/from google drive/Introduction/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/jen/Documents/from google drive/Introduction/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/jen/Documents/from google drive/Introduction/app/build/intermediates/res/merged/debug/raw_greetparticipantlessanthropomorphically.top.flat",
+        "source": "/Users/jen/Documents/from google drive/Introduction/app/src/main/res/raw/greetparticipantlessanthropomorphically.top"
+    },
+    {
+        "merged": "/Users/jen/Documents/from google drive/Introduction/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/jen/Documents/from google drive/Introduction/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/jen/Documents/from google drive/Introduction/app/build/intermediates/res/merged/debug/raw_roll_result.top.flat",
+        "source": "/Users/jen/Documents/from google drive/Introduction/app/src/main/res/raw/roll_result.top"
+    },
+    {
+        "merged": "/Users/jen/Documents/from google drive/Introduction/app/build/intermediates/res/merged/debug/raw_approach_table.pmt.flat",
+        "source": "/Users/jen/Documents/from google drive/Introduction/app/src/main/res/raw/approach_table.pmt"
+    },
+    {
+        "merged": "/Users/jen/Documents/from google drive/Introduction/app/build/intermediates/res/merged/debug/layout_activity_main_old.xml.flat",
+        "source": "/Users/jen/Documents/from google drive/Introduction/app/src/main/res/layout/activity_main_old.xml"
+    },
+    {
+        "merged": "/Users/jen/Documents/from google drive/Introduction/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/jen/Documents/from google drive/Introduction/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/jen/Documents/from google drive/Introduction/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/Users/jen/Documents/from google drive/Introduction/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/jen/Documents/from google drive/Introduction/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/jen/Documents/from google drive/Introduction/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/jen/Documents/from google drive/Introduction/app/build/intermediates/res/merged/debug/raw_raise_right_hand_b007.qianim.flat",
+        "source": "/Users/jen/Documents/from google drive/Introduction/app/src/main/res/raw/raise_right_hand_b007.qianim"
+    },
+    {
+        "merged": "/Users/jen/Documents/from google drive/Introduction/app/build/intermediates/res/merged/debug/layout_elements_row.xml.flat",
+        "source": "/Users/jen/Documents/from google drive/Introduction/app/src/main/res/layout/elements_row.xml"
+    },
+    {
+        "merged": "/Users/jen/Documents/from google drive/Introduction/app/build/intermediates/res/merged/debug/raw_plan_die.xml.flat",
+        "source": "/Users/jen/Documents/from google drive/Introduction/app/src/main/res/raw/plan_die.xml"
+    },
+    {
+        "merged": "/Users/jen/Documents/from google drive/Introduction/app/build/intermediates/res/merged/debug/raw_roll.qianim.flat",
+        "source": "/Users/jen/Documents/from google drive/Introduction/app/src/main/res/raw/roll.qianim"
+    },
+    {
+        "merged": "/Users/jen/Documents/from google drive/Introduction/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/Users/jen/Documents/from google drive/Introduction/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/jen/Documents/from google drive/Introduction/app/build/intermediates/res/merged/debug/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/jen/Documents/from google drive/Introduction/app/src/main/res/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/jen/Documents/from google drive/Introduction/app/build/intermediates/res/merged/debug/raw_plan.xml.flat",
+        "source": "/Users/jen/Documents/from google drive/Introduction/app/src/main/res/raw/plan.xml"
+    },
+    {
+        "merged": "/Users/jen/Documents/from google drive/Introduction/app/build/intermediates/res/merged/debug/raw_greetparticipantmoreanthropomorphically.top.flat",
+        "source": "/Users/jen/Documents/from google drive/Introduction/app/src/main/res/raw/greetparticipantmoreanthropomorphically.top"
+    },
+    {
+        "merged": "/Users/jen/Documents/from google drive/Introduction/app/build/intermediates/res/merged/debug/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "/Users/jen/Documents/from google drive/Introduction/app/src/main/res/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/jen/Documents/from google drive/Introduction/app/build/intermediates/res/merged/debug/raw_throw_die.qianim.flat",
+        "source": "/Users/jen/Documents/from google drive/Introduction/app/src/main/res/raw/throw_die.qianim"
+    },
+    {
+        "merged": "/Users/jen/Documents/from google drive/Introduction/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/jen/Documents/from google drive/Introduction/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/jen/Documents/from google drive/Introduction/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/jen/Documents/from google drive/Introduction/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/jen/Documents/from google drive/Introduction/app/build/intermediates/res/merged/debug/raw_raise_left_hand_b007.qianim.flat",
+        "source": "/Users/jen/Documents/from google drive/Introduction/app/src/main/res/raw/raise_left_hand_b007.qianim"
+    },
+    {
+        "merged": "/Users/jen/Documents/from google drive/Introduction/app/build/intermediates/res/merged/debug/raw_plan_annoy.xml.flat",
+        "source": "/Users/jen/Documents/from google drive/Introduction/app/src/main/res/raw/plan_annoy.xml"
+    },
+    {
+        "merged": "/Users/jen/Documents/from google drive/Introduction/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/jen/Documents/from google drive/Introduction/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/jen/Documents/from google drive/Introduction/app/build/intermediates/res/merged/debug/raw_left_hand_high_b001.qianim.flat",
+        "source": "/Users/jen/Documents/from google drive/Introduction/app/src/main/res/raw/left_hand_high_b001.qianim"
+    },
+    {
+        "merged": "/Users/jen/Documents/from google drive/Introduction/app/build/intermediates/res/merged/debug/raw_right_hand_high_b001.qianim.flat",
+        "source": "/Users/jen/Documents/from google drive/Introduction/app/src/main/res/raw/right_hand_high_b001.qianim"
+    }
+]
